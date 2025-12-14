@@ -1,0 +1,13 @@
+[project]
+name = "numpyro-examples"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "arviz>=0.15.1",
+    "chainconsumer>=0.34.0",
+    "jax>=0.4.13",
+    "matplotlib>=3.7.5",
+    "numpyro>=0.12.1",
+]
